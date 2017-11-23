@@ -1,0 +1,97 @@
+[dynamic-panel-transparency]
+enable-text-color=false
+enable-opacity=true
+remove-panel-styling=true
+text-shadow-color=(0, 0, 0, 0.14000000000000001)
+maximized-opacity=255
+panel-color=[79, 77, 70]
+enable-background-color=true
+maximized-text-color=(119, 41, 83)
+hide-corners=false
+text-shadow-position=(0, 0, 3)
+text-shadow=true
+icon-shadow=true
+icon-shadow-position=(0, 2, 3)
+text-color=(233, 84, 32)
+icon-shadow-color=(0, 0, 0, 0.029999999999999999)
+unmaximized-opacity=255
+
+[extra-panels]
+display-workspace=false
+display-appmenu=false
+display-activities=false
+
+[user-theme]
+name=''
+
+[apt-update-indicator]
+check-interval=12
+interval-unit='hours'
+last-check-date-automatic-double=1511399636018.0
+last-check-date-double=1511399636018.0
+update-cmd-options='update-manager'
+
+[backup-tools]
+icon-size='16'
+position-in-panel='right'
+
+[openweather]
+weather-provider='openweathermap'
+center-forecast=false
+days-forecast=2
+unit='celsius'
+geolocation-provider='openstreetmaps'
+menu-alignment=74.299999999999997
+use-default-owm-key=true
+show-text-in-panel=true
+show-comment-in-panel=false
+use-symbolic-icons=true
+position-in-panel='center'
+wind-speed-unit='kph'
+translate-condition=true
+city='-23.5506507,-46.6333824>SP, Microrregião de São Paulo, RMSP, Mesorregião Metropolitana de São Paulo, SP, Região Sudeste, Brasil >-1'
+wind-direction=true
+use-text-on-buttons=false
+pressure-unit='atm'
+show-comment-in-forecast=true
+decimal-places=1
+
+[net/gfxmonk/scroll-workspaces]
+indicator=true
+scroll-delay=0
+ignore-last-workspace=false
+
+[topicons]
+tray-pos='center'
+
+[extensions]
+position='menu'
+show-add=true
+
+[dash-to-dock]
+opaque-background=false
+animate-show-apps=true
+custom-theme-running-dots-border-color='#772953'
+unity-backlit-items=false
+extend-height=true
+dock-fixed=true
+custom-theme-running-dots-color='#e95420'
+click-action='minimize'
+force-straight-corner=false
+show-apps-at-top=true
+preferred-monitor=0
+show-show-apps-button=true
+multi-monitor=true
+custom-background-color=true
+custom-theme-customize-running-dots=false
+apply-custom-theme=false
+custom-theme-running-dots=true
+isolate-monitors=false
+dock-position='LEFT'
+custom-theme-shrink=true
+background-opacity=0.0
+custom-theme-running-dots-border-width=1
+dash-max-icon-size=48
+background-color='#4f4d46'
+icon-size-fixed=true
+isolate-workspaces=false
