@@ -1,0 +1,13 @@
+15:alternate-tab@gnome-shell-extensions.gcampax.github.com
+1139:apt-update-indicator@franglais125.gmail.com
+1312:backup-tools@yahoo.com
+307:dash-to-dock@micxgx.gmail.com
+7:drive-menu@gnome-shell-extensions.gcampax.github.com
+1011:dynamic-panel-transparency@rockon999.github.io
+1036:extensions@abteil.org
+1066:fix-multi-monitors@kirby_33@hotmail.fr
+750:openweather-extension@jenslody.de
+701:scroll-workspaces@gfxmonk.net
+1031:TopIcons@phocean.net
+1287:unite@hardpixel.eu
+19:user-theme@gnome-shell-extensions.gcampax.github.com
